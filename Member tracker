@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<body style="background-color:white;">
+<script>
+"Notification" in window === true
+Notification.requestpermission();
+let title = "Page Unavailable"
+let body = "This page is currently under construction"
+let noti = new Notification(title, {body, icon});
+</script>
+        
+<h1 style="color:grey;">Member Tracker</h1>
+
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<body>
+
+<h2>Committee Progress</h2>
+
+<table style="width:100%">
+  <tr>
+    <th>Member</th>
+    <th>GSL</th>
+    <th>Speech 1</th>
+    <th>Speech 2</th>
+    <th>Speech 3</th>
+    <th>Notes</th>
+    <th>Mod Cauc</th>
+    <th>Bloc</th>
+    <th>WP</th>
+    <th>Vote</th>
+    <th>Reso</th>
+    <th>Vote</th>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td>NA</td>
+     <td>NA</td>
+       <td>NA</td>
+         <td>NA</td>
+           <td>NA</td>
+             <td>NA</td>
+               <td>NA</td>
+                 <td>NA</td>
+                   <td>NA</td>
+                     <td>NA</td>
+                       <td>NA</td>
+   </tr>
+  <tr>
+    <td>Name</td>
+    <td>NA</td>
+     <td>NA</td>
+       <td>NA</td>
+         <td>NA</td>
+           <td>NA</td>
+             <td>NA</td>
+               <td>NA</td>
+                 <td>NA</td>
+                   <td>NA</td>
+                     <td>NA</td>
+                       <td>NA</td>
+   </tr>
+  <tr>
+    <td>Name</td>
+    <td>NA</td>
+     <td>NA</td>
+       <td>NA</td>
+         <td>NA</td>
+           <td>NA</td>
+             <td>NA</td>
+               <td>NA</td>
+                 <td>NA</td>
+                   <td>NA</td>
+                     <td>NA</td>
+                       <td>NA</td>
+   </tr>
+  <tr>
+    <td>Name</td>
+    <td>NA</td>
+     <td>NA</td>
+       <td>NA</td>
+         <td>NA</td>
+           <td>NA</td>
+             <td>NA</td>
+               <td>NA</td>
+                 <td>NA</td>
+                   <td>NA</td>
+                     <td>NA</td>
+                       <td>NA</td>
+   </tr>
+  <tr>
+    <td>Name</td>
+    <td>NA</td>
+     <td>NA</td>
+       <td>NA</td>
+         <td>NA</td>
+           <td>NA</td>
+             <td>NA</td>
+               <td>NA</td>
+                 <td>NA</td>
+                   <td>NA</td>
+                     <td>NA</td>
+                       <td>NA</td>
+   </tr>
+  <tr>
+    <td>Name</td>
+    <td>NA</td>
+     <td>NA</td>
+       <td>NA</td>
+         <td>NA</td>
+           <td>NA</td>
+             <td>NA</td>
+               <td>NA</td>
+                 <td>NA</td>
+                   <td>NA</td>
+                     <td>NA</td>
+                       <td>NA</td>
+   </tr>
+  <tr>
+    <td>Name</td>
+    <td>NA</td>
+     <td>NA</td>
+       <td>NA</td>
+         <td>NA</td>
+           <td>NA</td>
+             <td>NA</td>
+               <td>NA</td>
+                 <td>NA</td>
+                   <td>NA</td>
+                     <td>NA</td>
+                       <td>NA</td>
+   </tr>
+  <tr>
+    <td>Name</td>
+    <td>NA</td>
+     <td>NA</td>
+       <td>NA</td>
+         <td>NA</td>
+           <td>NA</td>
+             <td>NA</td>
+               <td>NA</td>
+                 <td>NA</td>
+                   <td>NA</td>
+                     <td>NA</td>
+                       <td>NA</td>
+   </tr>
+  <tr>
+    <td>Name</td>
+    <td>NA</td>
+     <td>NA</td>
+       <td>NA</td>
+         <td>NA</td>
+           <td>NA</td>
+             <td>NA</td>
+               <td>NA</td>
+                 <td>NA</td>
+                   <td>NA</td>
+                     <td>NA</td>
+                       <td>NA</td>
+   </tr>
+  <tr>
+    <td>Name</td>
+    <td>NA</td>
+     <td>NA</td>
+       <td>NA</td>
+         <td>NA</td>
+           <td>NA</td>
+             <td>NA</td>
+               <td>NA</td>
+                 <td>NA</td>
+                   <td>NA</td>
+                     <td>NA</td>
+                       <td>NA</td>
+   </tr>
+  <tr>
+    <td>Name</td>
+    <td>NA</td>
+     <td>NA</td>
+       <td>NA</td>
+         <td>NA</td>
+           <td>NA</td>
+             <td>NA</td>
+               <td>NA</td>
+                 <td>NA</td>
+                   <td>NA</td>
+                     <td>NA</td>
+                       <td>NA</td>
+ 
+  </tr>
+</table>
+<html>
